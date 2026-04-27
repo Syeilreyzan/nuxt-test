@@ -5,7 +5,6 @@
 # Nuxt Test - Tutorial Project
 
 This project is based on the tutorial from the YouTube playlist: [Nuxt Tutorial Playlist](https://www.youtube.com/playlist?list=PLrQyuTC3FMzyv5r8p1QLXlb_6RaAYQfhk).
->>>>>>> 399c16b (Update README.md file)
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
