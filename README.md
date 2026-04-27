@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # nuxt-test
 =======
 # Nuxt Minimal Starter
