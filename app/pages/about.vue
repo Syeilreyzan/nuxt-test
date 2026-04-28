@@ -1,5 +1,11 @@
 <template>
     <div>
-        <h1>About Page</h1>
+        <PageTitle>About Page</PageTitle>
     </div>
+    {{ counter }}
 </template>
+
+<script lang="ts" setup>
+const counter = useState("count", () => 0);
+
+</script>
