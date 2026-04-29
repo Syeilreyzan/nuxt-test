@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # nuxt-test
 # Nuxt Minimal Starter
-=======
 # Nuxt Test - Tutorial Project
 
 This project is based on the tutorial from the YouTube playlist: [Nuxt Tutorial Playlist](https://www.youtube.com/playlist?list=PLrQyuTC3FMzyv5r8p1QLXlb_6RaAYQfhk).
